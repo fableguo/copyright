@@ -1,0 +1,5 @@
+Title_ZH: 憤怒主廚的日常
+Title_EN: Q-Furious Chef Daily
+Desc_ZH: 熱血狂躁大廚！生無可戀、簡直完美、給我重做，經典主廚迷因全收錄！
+Desc_EN: Passionate master chef Q-Furious Chef with culinary memes and kitchen perfection.
+Sticker_Count: 16

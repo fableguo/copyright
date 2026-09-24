@@ -1,0 +1,5 @@
+Title_ZH: 皮衣教父的日常
+Title_EN: Q-Leather Boss Daily
+Desc_ZH: 超人氣科技產業皮衣教父！算力拉滿、點子超棒、黑科技來襲，陪伴你的高科技日常！
+Desc_EN: Adorable 2.5-head chibi tech CEO Q-Leather Boss! Compute at maximum, high-tech memes, and energetic daily stickers.
+Sticker_Count: 16

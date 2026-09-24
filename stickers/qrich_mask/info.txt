@@ -1,0 +1,5 @@
+Title_ZH: QRich-Mask 火星首富篇
+Title_EN: QRich-Mask To The Mars
+Desc_ZH: 科技狂人 QRich-Mask 的超狂日常！To Mars、Let that sink in、第一性原理，滿滿硬核迷因。
+Desc_EN: Charismatic tech billionaire QRich-Mask with hardcore memes, rockets, Doge, and First Principles!
+Sticker_Count: 8

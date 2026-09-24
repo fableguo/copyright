@@ -210,6 +210,41 @@ All character designs (Chen-Chen and An-An) and sticker illustrations are 100% o
 
 ---
 
+
+---
+
+## 🌟 Part II: Q-Series Original Chibi Parody & Caricature Collections (原創 Q 版名人趣味系列)
+
+本倉庫同步存證創作者 **fableguo** 獨立原創繪製之 **Q 版趣味漫畫角色系列（Q-Series）**。
+
+### 📌 針對 Q-Series 之版權與商標專項聲明 (Compliance Declaration for Q-Series)
+1. **原創 2.5 頭身向量繪圖 (100% Original Vector Illustration)**:
+   * 本系列角色皆為獨立手繪/原創漫畫化之 2.5 頭身 Q 版趣味造型（Chibi Style），絕非任何影視動漫之同人二創（Fan Fiction），亦非真人照片轉描。
+2. **無任何註冊商標或球隊徽章 (Zero Trademark / No Logos)**:
+   * 角色穿著之運動服、西裝、皮衣、廚師服均為**純色通用服飾**，**嚴格不包含任何真實球隊隊徽（如皇馬、湖人、勇士、曼城等）、商業品牌商標（如 Nike、Adidas、NVIDIA 等）或贊助商標誌**。
+3. **既有合法性先例 (Approved Precedents in the Same Series)**:
+   * 同屬此 Q 系列之作品：
+     * **《QRich-Mask 火星首富篇》**：已於 LINE Creators Market **審核通過並正式販售中**。
+     * **《硬漢巨石的日常 (Q-Muscle Rock)》**：已於 LINE Creators Market **審核通過 (Approved)**。
+   * 本系列其他角色（Q-Red Ace, Q-Leather Boss, Q-Court King, Q-Court Chef, Q-Gentle Hero, Q-Challenge King, Q-Blonde Striker 等）均採完全相同之創作規範，具備完全相同的原創性與合法性。
+
+### 🖼️ Q-Series 展示清單 (Showcase Gallery)
+
+| 編號 | 角色作品名稱 | 英文名稱 | LINE審核狀態 | 4×4 展示牌 | 貼圖原圖目錄 |
+| :---: | :--- | :--- | :---: | :--- | :--- |
+| 01 | **火星首富篇** | QRich-Mask Daily | **販售中 (Active)** | [展示牌](./showcases/all_characters_showcase.jpg) | [`stickers/qrich_mask`](./stickers/qrich_mask) |
+| 02 | **硬漢巨石的日常** | Q-Muscle Rock Daily | **審核通過 (Approved)** | [展示牌](./showcases/q_muscle_rock_16_stickers_preview.jpg) | [`stickers/q_muscle_rock`](./stickers/q_muscle_rock) |
+| 03 | **皮衣教父的日常** | Q-Leather Boss Daily | 申訴審查中 | [展示牌](./showcases/q_leather_boss_16_stickers_preview.jpg) | [`stickers/q_leather_boss`](./stickers/q_leather_boss) |
+| 04 | **熱血總裁的日常** | Q-Red Ace Daily | 申訴審查中 | [展示牌](./showcases/q_red_ace_16_stickers_preview.jpg) | [`stickers/q_red_ace`](./stickers/q_red_ace) |
+| 05 | **天選國王的日常** | Q-Court King Daily | 申訴審查中 | [展示牌](./showcases/q_court_king_16_stickers_preview.jpg) | [`stickers/q_court_king`](./stickers/q_court_king) |
+| 06 | **神射大廚的日常** | Q-Court Chef Daily | 申訴審查中 | [展示牌](./showcases/q_court_chef_16_stickers_preview.jpg) | [`stickers/q_court_chef`](./stickers/q_court_chef) |
+| 07 | **不老英雄的日常** | Q-Gentle Hero Daily | 申訴審查中 | [展示牌](./showcases/q_gentle_hero_16_stickers_preview.jpg) | [`stickers/q_gentle_hero`](./stickers/q_gentle_hero) |
+| 08 | **億萬挑戰王的日常** | Q-Challenge King Daily | 申訴審查中 | [展示牌](./showcases/q_challenge_king_16_stickers_preview.jpg) | [`stickers/q_challenge_king`](./stickers/q_challenge_king) |
+| 09 | **旋風金童的日常** | Q-Blonde Striker Daily | 申訴審查中 | [展示牌](./showcases/q_blonde_giant_16_stickers_preview.jpg) | [`stickers/q_blonde_giant`](./stickers/q_blonde_giant) |
+| 10 | **球王小獅的日常** | Q-Soccer Lion Daily | 審核中 | [展示牌](./showcases/q_soccer_lion_16_stickers_preview.jpg) | [`stickers/q_soccer_lion`](./stickers/q_soccer_lion) |
+| 11 | **憤怒主廚的日常** | Q-Furious Chef Daily | 審核中 | [展示牌](./showcases/q_furious_chef_16_stickers_preview.jpg) | [`stickers/q_furious_chef`](./stickers/q_furious_chef) |
+
+
 ## ⚖️ Copyright & License
 
 Copyright © 2026 **fableguo**. All Rights Reserved.  

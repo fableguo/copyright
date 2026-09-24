@@ -1,0 +1,5 @@
+Title_ZH: 硬漢巨石的日常
+Title_EN: Q-Muscle Rock Daily
+Desc_ZH: 幽默硬漢巨石！經典挑眉、你確定、欺騙餐大暴食，熱血霸氣！
+Desc_EN: Powerhouse hero Q-Muscle Rock with iconic raised eyebrow and hilarious reactions.
+Sticker_Count: 16

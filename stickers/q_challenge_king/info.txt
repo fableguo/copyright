@@ -1,0 +1,5 @@
+Title_ZH: 億萬挑戰王的日常
+Title_EN: Q-Challenge King Daily
+Desc_ZH: 億萬實況挑戰王！送通通送、超級大支票、極限挑戰，瘋狂日常！
+Desc_EN: Chibi top video creator Q-Challenge King! Giant cash prizes, challenges, and high energy.
+Sticker_Count: 16

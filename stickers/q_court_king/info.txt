@@ -1,0 +1,5 @@
+Title_ZH: 天選國王的日常
+Title_EN: Q-Court King Daily
+Desc_ZH: 霸王氣場的天選國王！王者降臨、Taco Tuesday、君臨天下，稱霸對話框！
+Desc_EN: Chibi basketball champion Q-Court King! Regal, powerful, and fun daily stickers.
+Sticker_Count: 16

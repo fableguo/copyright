@@ -1,0 +1,5 @@
+Title_ZH: 旋風金童的日常
+Title_EN: Q-Blonde Striker Daily
+Desc_ZH: 超萌 2.5 頭身旋風金童！心如止水、戰力爆表、狂飲牛奶，逗趣維京神鋒日常！
+Desc_EN: Adorable 2.5-head chibi Viking striker Q-Blonde Striker! Zen meditation, explosive goals, and hilarious daily stickers.
+Sticker_Count: 16

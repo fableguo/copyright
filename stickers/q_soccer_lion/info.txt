@@ -1,0 +1,5 @@
+Title_ZH: 球王小獅的日常
+Title_EN: Q-Soccer Lion Daily
+Desc_ZH: 超萌 2.5 頭身球王小獅！太神啦、實力不允許低調、雙手指天，陪伴你的每一天！
+Desc_EN: Adorable 2.5-head chibi legendary soccer champion Q-Soccer Lion! Daily chat stickers.
+Sticker_Count: 16
