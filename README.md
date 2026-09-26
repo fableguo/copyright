@@ -51,6 +51,11 @@
 | **05** | **School Life Boys Vol.2 (校園爆笑名場面 - 男生篇)** | 16張 | [`stickers/05_school_boys_vol2`](./stickers/05_school_boys_vol2) | 考試、遲到、健康操、午休校園趣事 |
 | **06** | **Home & Family Girls Vol.3 (溫馨家庭生活 - 女生篇)** | 16張 | [`stickers/06_home_girls_vol3`](./stickers/06_home_girls_vol3) | 親子互動、寫作業、撒嬌、晚安睡覺 |
 | **07** | **Home & Family Boys Vol.3 (溫馨家庭生活 - 男生篇)** | 16張 | [`stickers/07_home_boys_vol3`](./stickers/07_home_boys_vol3) | 親子互動、寫作業、撒嬌、晚安睡覺 |
+| **08** | **Travel & Vacation Girls Vol.4 (出國度假篇 - 女生)** | 16張 | [`stickers/08_travel_girls_vol4`](./stickers/08_travel_girls_vol4) | 飛機、郵輪、富士山、滑雪、浮潛、衝浪、露營 |
+| **09** | **Travel & Vacation Boys Vol.4 (出國度假篇 - 男生)** | 16張 | [`stickers/09_travel_boys_vol4`](./stickers/09_travel_boys_vol4) | 飛機、郵輪、富士山、滑雪、浮潛、衝浪、露營 |
+| **10** | **Theme Park Girls Vol.5 (歡樂遊樂園篇 - 女生)** | 16張 | [`stickers/10_themepark_girls_vol5`](./stickers/10_themepark_girls_vol5) | 雲霄飛車、旋轉木馬、摩天輪、急流泛舟、煙火 |
+| **11** | **Theme Park Boys Vol.5 (歡樂遊樂園篇 - 男生)** | 16張 | [`stickers/11_themepark_boys_vol5`](./stickers/11_themepark_boys_vol5) | 雲霄飛車、旋轉木馬、摩天輪、急流泛舟、煙火 |
+
 
 ---
 
